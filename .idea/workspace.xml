@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="177401fb-140d-4285-a57c-271b4c230f2f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/include/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - gsb_frais@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - gsb_frais@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - gsb_frais@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="gsb_frais: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - gsb_frais@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="gsb_frais: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="visiteur: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1R0OzUiGeUh8WOzJS9VVdfjaTYv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;mysql.8" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Programe\wamp64\www\GSB\2-GSB-MVC\2-GSB-MVC\9-GSB-AppliMVC\gsbmvc\vues" />
+      <recent name="E:\Programe\wamp64\www\GSB\2-GSB-MVC\2-GSB-MVC\9-GSB-AppliMVC\gsbmvc\controleurs" />
+      <recent name="E:\Programe\wamp64\www\GSB\2-GSB-MVC\2-GSB-MVC\9-GSB-AppliMVC\gsbmvc\include" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="gsbmvc" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="177401fb-140d-4285-a57c-271b4c230f2f" name="Default Changelist" comment="" />
+      <created>1568800808230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568800808230</updated>
+      <workItem from="1568800810406" duration="264000" />
+      <workItem from="1568801113651" duration="10485000" />
+      <workItem from="1568966995234" duration="1379000" />
+      <workItem from="1568992282719" duration="1433000" />
+      <workItem from="1569235134703" duration="4430000" />
+      <workItem from="1569241295211" duration="8218000" />
+      <workItem from="1569264073320" duration="4248000" />
+      <workItem from="1569270298809" duration="645000" />
+      <workItem from="1569305186616" duration="13997000" />
+      <workItem from="1569404605266" duration="16170000" />
+      <workItem from="1570001491133" duration="3617000" />
+      <workItem from="1570010268459" duration="3068000" />
+      <workItem from="1570018194229" duration="5913000" />
+      <workItem from="1570024166417" duration="2926000" />
+      <workItem from="1570094394595" duration="3425000" />
+      <workItem from="1570199816047" duration="2786000" />
+      <workItem from="1570202664397" duration="1691000" />
+      <workItem from="1570514609855" duration="650000" />
+      <workItem from="1570534068717" duration="3370000" />
+      <workItem from="1570605473044" duration="9621000" />
+      <workItem from="1570633983120" duration="3442000" />
+      <workItem from="1571213541268" duration="15743000" />
+      <workItem from="1571419361511" duration="5109000" />
+      <workItem from="1571643690895" duration="8920000" />
+      <workItem from="1571730940291" duration="9256000" />
+      <workItem from="1571908084056" duration="2170000" />
+      <workItem from="1572267832919" duration="49000" />
+      <workItem from="1572338052105" duration="121000" />
+      <workItem from="1572868962389" duration="1763000" />
+      <workItem from="1572959185654" duration="3132000" />
+      <workItem from="1572984549342" duration="8979000" />
+      <workItem from="1573027684044" duration="7521000" />
+      <workItem from="1573064965336" duration="604000" />
+      <workItem from="1573137258950" duration="3604000" />
+      <workItem from="1573632599420" duration="11778000" />
+      <workItem from="1573661068352" duration="1258000" />
+      <workItem from="1573759825060" duration="3081000" />
+      <workItem from="1574147646520" duration="1717000" />
+      <workItem from="1574243110900" duration="14647000" />
+      <workItem from="1574335338712" duration="1704000" />
+      <workItem from="1574337103659" duration="8000" />
+      <workItem from="1574337344209" duration="5877000" />
+      <workItem from="1574353852084" duration="11562000" />
+      <workItem from="1574435887957" duration="8000" />
+      <workItem from="1574438736654" duration="11093000" />
+      <workItem from="1574500046069" duration="3567000" />
+      <workItem from="1574508184481" duration="1049000" />
+      <workItem from="1574525633318" duration="519000" />
+      <workItem from="1574526163461" duration="8017000" />
+      <workItem from="1574704249953" duration="11654000" />
+      <workItem from="1574717789037" duration="9647000" />
+      <workItem from="1574728238231" duration="709000" />
+      <workItem from="1574752071935" duration="2313000" />
+      <workItem from="1574754452556" duration="4888000" />
+      <workItem from="1574763499634" duration="4129000" />
+      <workItem from="1574774774178" duration="771000" />
+      <workItem from="1574775998420" duration="5237000" />
+      <workItem from="1574845630471" duration="4893000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Inspections" timestamp="1572988744043">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1572988744043" />
+    <state x="674" y="110" key="#PHP" timestamp="1573762378717">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="674" y="110" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1573762378717" />
+    <state x="-1120" y="331" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1574526150082">
+      <screen x="-1600" y="174" width="1600" height="860" />
+    </state>
+    <state x="-1120" y="331" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-1600.174.1600.860/0.0.1920.1040@-1600.174.1600.860" timestamp="1574526150082" />
+    <state x="644" y="157" width="645" height="726" key="#gsbmvc" timestamp="1573762385704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="644" y="157" width="645" height="726" key="#gsbmvc/0.0.1920.1040@0.0.1920.1040" timestamp="1573762385704" />
+    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1572267879212">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="261" key="FileChooserDialogImpl/-1600.174.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1572267879212" />
+    <state width="561" height="446" key="SwitcherDM" timestamp="1574248848228">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="561" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1574248848228" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1574754453034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1053" y="458" key="com.intellij.ide.util.TipDialog/-1600.174.1600.860/0.0.1920.1040@-1600.174.1600.860" timestamp="1574704259798" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/-1600.174.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1574525719648" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1574754453034" />
+    <state x="-1087" y="372" key="run.anything.popup" timestamp="1574711536562">
+      <screen x="-1600" y="174" width="1600" height="860" />
+    </state>
+    <state x="-1087" y="372" key="run.anything.popup/-1600.174.1600.860/0.0.1920.1040@-1600.174.1600.860" timestamp="1574711536562" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1574257472994" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1572987754291">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1572987754291" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controleurs/c_comptable.php</url>
+          <line>318</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controleurs/c_comptable.php</url>
+          <line>14</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
